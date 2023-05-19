@@ -2,7 +2,7 @@
 Code for paper: EEG-based seizure prediction via hybrid vision transformer and data uncertainty learning
 
 ## About the paper
-* Title: EEG-based seizure prediction via hybrid vision transformer and data uncertainty learning
+* Title: [EEG-based seizure prediction via hybrid vision transformer and data uncertainty learning](https://www.sciencedirect.com/science/article/pii/S0952197623005857)
 * Authors: Zhiwei Deng, Chang Li, Rencheng Song, Xiang Liu, Ruobing Qian, Xun Chen
 * Institution: Hefei University of Technology
 * Published in: Engineering Applications of Artificial Intelligence
